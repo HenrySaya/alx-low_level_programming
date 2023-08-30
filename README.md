@@ -7,3 +7,15 @@ This is the debgging project
 
 ## 0x04. C - More functions, more nested loops
 In this project we look int more functions and nested loops
+
+## 0x05. C - Pointers, arrays and strings
+Took a foot dive int pointers and arrays
+
+## 0x06-pointers_arrays_strings
+More pointers, arrays and strings
+
+## 0x07. C
+even more pointers, arrays and strings
+
+## 0x08. C
+Recursion - repeating items in a self similar way
