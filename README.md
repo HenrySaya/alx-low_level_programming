@@ -19,3 +19,6 @@ even more pointers, arrays and strings
 
 ## 0x08. C
 Recursion - repeating items in a self similar way
+
+## 0x0A. C
+argc argv
