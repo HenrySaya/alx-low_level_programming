@@ -25,3 +25,6 @@ argc argv
 
 ## 0x0B. C
 Took time to go through malloc
+
+## 0x0C. C
+More malloc, free
