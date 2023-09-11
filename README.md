@@ -31,3 +31,6 @@ More malloc, free
 
 ## 0x0D-preprocessor
 This time round focused onpre-processors
+
+## 0x0E-structures_typedef
+Took a deep dive into C structures
