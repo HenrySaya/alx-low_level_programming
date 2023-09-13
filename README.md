@@ -34,3 +34,6 @@ This time round focused onpre-processors
 
 ## 0x0E-structures_typedef
 Took a deep dive into C structures
+
+##0x0F. C - Function pointers
+Focused a  little on function pointers
