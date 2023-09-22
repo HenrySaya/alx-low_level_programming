@@ -37,3 +37,6 @@ Took a deep dive into C structures
 
 ##0x0F. C - Function pointers
 Focused a  little on function pointers
+
+## 0x12. c Singly linked lists
+Checked the difeerencs of array and linked list like how to perform insertion and deletion operations it is better to use the linked list
