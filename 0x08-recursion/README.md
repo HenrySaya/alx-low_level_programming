@@ -9,3 +9,8 @@ This is a recursive function that finds out the length of a string
 
 ## 3-factorial.c
 In this program we use recursion to fnd factorial of numbers
+
+## 4-pow_recursion.c
+This is a program that implements concepts of recursion to create function that returns the value of x raised to the power of y
+
+## 
