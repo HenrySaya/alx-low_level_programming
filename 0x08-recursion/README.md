@@ -6,3 +6,6 @@ Applying recursive functions to generally print a reversed string
 
 ##  2-strlen_recursion.c
 This is a recursive function that finds out the length of a string
+
+## 3-factorial.c
+In this program we use recursion to fnd factorial of numbers
