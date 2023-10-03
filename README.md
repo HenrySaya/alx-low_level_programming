@@ -1,4 +1,4 @@
-0x00. C - Hello, World
+0X00. c - Hello, World
 
 This is C programming
 
