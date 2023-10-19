@@ -18,3 +18,7 @@ This file was tested against the 0-main.c file after compilation and in this fun
 ## 1-list_len.c
 This file contains a function that returns the number of elements in a linked list_t list
 Tested and compiled with 1-main.c file that is in the test folder.
+
+## 2-add_node.c
+This file includes a function that adds a new node at the beginning of a list_t list and returns  the address of the new element, or NULL if it failed.
+We used the strdup which will allocate memory for the string and duplicates the string.After which it returns a pointer to the new copy of the strings
