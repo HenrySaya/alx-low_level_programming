@@ -25,3 +25,6 @@ We used the strdup which will allocate memory for the string and duplicates the 
 
 ## 3-add_node_end.c
 This is a file that holds a function that adds a new node at the end of the list_t
+
+## 4-free_list.c
+This is a file that contains the function that frees a list_t
