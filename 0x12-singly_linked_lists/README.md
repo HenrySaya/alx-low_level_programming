@@ -13,4 +13,8 @@ This folder contains all the test files used to compile each and every file we c
 ## 0-print_list.c
 This file is of a function that prints all the elements of a list_t list.
 list_t is the data structure I employed to create the single linked list.
-This file was tested against the 0-main.c file after compilation and in this function we used the printf.
+This file was tested against the 0-main.c file after compilation and in this function we used the printf
+
+## 1-list_len.c
+This file contains a function that returns the number of elements in a linked list_t list
+Tested and compiled with 1-main.c file that is in the test folder.
