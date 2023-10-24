@@ -22,3 +22,7 @@ This is a functions thet adds a new node at the ened of a listint_t list
 
 ## 4-free_listint.c
 This is a function that frees a listint_t list
+
+## 5-free_listint2.c
+This is a function that does sa ework as the one above only that it sets the head to NULL.
+
