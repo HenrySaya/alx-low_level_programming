@@ -10,3 +10,6 @@ It also contains the single linked list function prototype or rather a self refe
 ##0-print_listint.c
 This is a function is used to print the single linked list in this particular event I used the listint_t list that was created.
 It also returns the number of nodes in listint_t
+
+## 1-listint_len.c
+This is a function that returns the number of elements in a linked listint_t list

@@ -8,12 +8,12 @@
 size_t print_listint(const listint_t *h)
 {
 	size_t count = 0;
-	const listint_t *ptr;
+	const listint_t *ptr = NULL;
 
 	ptr = h;
 
 	if (h == NULL)
-		printf("This is an empty list");
+		printf("This is an empty list\n");
 
 	while (ptr != NULL)
 	{
