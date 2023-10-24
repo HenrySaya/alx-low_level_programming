@@ -33,3 +33,5 @@ This is a function that deletes the head node of a listint_t and also returns th
 This is a function that returns the nth code of a lidtint_t linked list.
 index is the index of the node if the node does not exist the function will return NULL
 
+## 8-sum_listint.c
+This is a functioon that returns the sum of all the data of listint_t linked list
