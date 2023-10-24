@@ -38,3 +38,6 @@ This is a functioon that returns the sum of all the data of listint_t linked lis
 
 ## 9-insert_nodeint.c
 This is a function that inserts a new node at a given position.
+
+## 10-delete_nodeint.c
+This is a function that deletes the node at index index of a listint_t linked list.
