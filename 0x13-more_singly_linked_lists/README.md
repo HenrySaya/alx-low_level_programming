@@ -35,3 +35,6 @@ index is the index of the node if the node does not exist the function will retu
 
 ## 8-sum_listint.c
 This is a functioon that returns the sum of all the data of listint_t linked list
+
+## 9-insert_nodeint.c
+This is a function that inserts a new node at a given position.
