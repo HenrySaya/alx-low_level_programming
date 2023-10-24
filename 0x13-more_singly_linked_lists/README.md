@@ -16,3 +16,6 @@ This is a function that returns the number of elements in a linked listint_t lis
 
 ## 2-add_nodeint.c
 IN this function we handle adding a new node at the beginning of a listint_t list.
+
+## 3-add_nodeint_end.c
+This is a functions thet adds a new node at the ened of a listint_t list
