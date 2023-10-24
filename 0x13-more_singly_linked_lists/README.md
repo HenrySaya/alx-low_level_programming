@@ -19,3 +19,6 @@ IN this function we handle adding a new node at the beginning of a listint_t lis
 
 ## 3-add_nodeint_end.c
 This is a functions thet adds a new node at the ened of a listint_t list
+
+## 4-free_listint.c
+This is a function that frees a listint_t list

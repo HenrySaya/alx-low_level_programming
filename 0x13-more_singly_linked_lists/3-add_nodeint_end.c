@@ -2,12 +2,16 @@
 /**
  * add_nodeint_end - add new node at end of list
  *
+ * @head: pointer to head node
+ * @n: this is the data value of listint_t
  * Return: returns address of new element
  */
 listint_t *add_nodeint_end(listint_t **head, const int n)
 {
 	listint_t *ptr, *temp;
+
 	ptr = malloc(sizeof(listint_t));
+
 	temp = *head;
 
 	if (!ptr)
