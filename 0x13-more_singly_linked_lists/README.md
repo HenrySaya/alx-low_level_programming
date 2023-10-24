@@ -28,3 +28,8 @@ This is a function that does sa ework as the one above only that it sets the hea
 
 ## 6-pop_listint.c
 This is a function that deletes the head node of a listint_t and also returns the node's data
+
+## 7-get_nodeint.c
+This is a function that returns the nth code of a lidtint_t linked list.
+index is the index of the node if the node does not exist the function will return NULL
+
