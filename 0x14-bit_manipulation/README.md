@@ -18,3 +18,8 @@ Prototype: void print_binary(unsigned long int n);
  a function that returns the value of a bit at a given index.
 
 Prototype: int get_bit(unsigned long int n, unsigned int index);
+
+## 3-set_bit.c
+a function that sets the value of a bit to 1 at a given index.
+
+Prototype: int set_bit(unsigned long int *n, unsigned int index);
