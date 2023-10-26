@@ -8,3 +8,8 @@ This header file does contain all the function prototypes
 a function that converts a binary number to an unsigned int.
 
 Prototype: unsigned int binary_to_uint(const char *b);
+
+## 1-print_binary.c
+a function that prints the binary representation of a number.
+
+Prototype: void print_binary(unsigned long int n);
