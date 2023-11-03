@@ -15,7 +15,7 @@ ssize_t read_textfile(const char *filename, size_t letters)
 	if (filename == NULL)
 		return (0);
 
-	fd = open(filename, o_RDONLY);
+	fd = open(filename, O_RDONLY);
 	if (fd < 0)
 		return (0);
 
@@ -34,7 +34,7 @@ ssize_t read_textfile(const char *filename, size_t letters)
 		return (0);
 	}
 
-	wlen = write(STDOUT_FILENO, beffer, rlen);
+	wlen = write(STDOUT_FILENO, buffer, rlen);
 	free(buffer);
 	if (rlen != wlen)
 		return (0);
