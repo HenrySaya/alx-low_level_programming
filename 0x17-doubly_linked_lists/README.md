@@ -29,3 +29,16 @@ If node does not exist returns null
 This is a function that returns the sum of all the data (n) of linked list dlistint_t.
 if the list is empty the functions returns 0
 Usede 6-main.c to test the function after successfull compilation
+
+## 7-insert_dnodeint.c
+a function that inserts a new node at a given position.
+
+where idx is the index of the list where the new node should be added. Index starts at 0
+Returns: the address of the new node, or NULL if it failed   a function that inserts a new node at a given position.
+Tested with 8-main.c
+## 8-delete_dnodeint.c
+ function that deletes the node at index index of a dlistint_t linked list.
+
+where index is the index of the node that should be deleted. Index starts at 0
+Returns: 1 if it succeeded, -1 if it failed function that deletes the node at index index of a dlistint_t linked list.
+tested with 7-main.c
