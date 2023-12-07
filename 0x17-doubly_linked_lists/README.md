@@ -20,3 +20,7 @@ Compiled and run with 3-main.c
 
 ## 4-free_dlistint.c
 function that frees a dlistint_t list.
+
+## 5-get_dnodeint.c
+This is a function that returns the nth code of dlistint_t where index is the index of the node starting from 0.
+If node does not exist returns null
