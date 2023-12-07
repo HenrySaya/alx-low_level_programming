@@ -5,3 +5,8 @@ Includes the data structure dlistint_t that is used to create the linked list an
 ## 0-print_dlistint.c
 This is a function that prints all the elements of a dlistint_t list.
 used the 0-main.c file to test this function out.
+
+## 1-dlistint_len.c
+This is a function that returns the number of elements in alinked list in our case which is dlistint_t.
+Tested this fuction with file 1-main.c
+
