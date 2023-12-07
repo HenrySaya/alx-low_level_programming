@@ -10,3 +10,6 @@ used the 0-main.c file to test this function out.
 This is a function that returns the number of elements in alinked list in our case which is dlistint_t.
 Tested this fuction with file 1-main.c
 
+## 2-add_dnodeint.c
+This function adds a new node at the beginning of dlistint_t list
+Run this function after compiling it with 2-main.c
