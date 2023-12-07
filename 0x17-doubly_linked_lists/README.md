@@ -18,3 +18,5 @@ Run this function after compiling it with 2-main.c
 NOw this function addds a node at the end of list.
 Compiled and run with 3-main.c
 
+## 4-free_dlistint.c
+function that frees a dlistint_t list.
