@@ -13,3 +13,8 @@ Tested this fuction with file 1-main.c
 ## 2-add_dnodeint.c
 This function adds a new node at the beginning of dlistint_t list
 Run this function after compiling it with 2-main.c
+
+## 3-add_dnodeint_end.c
+NOw this function addds a node at the end of list.
+Compiled and run with 3-main.c
+
